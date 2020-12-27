@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MotorDriver.PcbDoc   2020/12/27  2:09:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MotorDriver-RoundHoles.TXT
+ASCII SlotHoles File : MotorDriver-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T2      35mil (0.889mm)                                           Round             98        PTH        0.00inch (0.00mm)
+T3      35mil (0.899mm)                                           Round             34        PTH        0.00inch (0.00mm)
+T4      39mil (1.001mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T5      47mil (1.199mm)                                           Slot              3         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              148
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [MotorDriver.PrjPcb]
+   Generated File[Fabrication Testpoint Report for MotorDriver.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:13:01 On 2020/12/27

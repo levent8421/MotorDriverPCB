@@ -1,0 +1,20 @@
+Change Net Name : Old Net Name=Netp5_1 New Net Name=M1_A
+Change Net Name : Old Net Name=Netp5_6 New Net Name=M1_B
+Added Pin To Net: NetName=M2_A Pin=p7-1
+Added Pin To Net: NetName=M2_A Pin=P10-2
+Added Net: Name=M2_A
+Added Pin To Net: NetName=M2_B Pin=p7-6
+Added Pin To Net: NetName=M2_B Pin=P10-1
+Added Net: Name=M2_B
+Added Pin To Net: NetName=M3_A Pin=p9-1
+Added Pin To Net: NetName=M3_A Pin=P12-2
+Added Net: Name=M3_A
+Added Pin To Net: NetName=M3_B Pin=p9-6
+Added Pin To Net: NetName=M3_B Pin=P12-1
+Added Net: Name=M3_B
+Added Pin To Net: NetName=M4_A Pin=P8-2
+Added Pin To Net: NetName=M4_A Pin=p11-1
+Added Net: Name=M4_A
+Added Pin To Net: NetName=M4_B Pin=P8-1
+Added Pin To Net: NetName=M4_B Pin=p11-6
+Added Net: Name=M4_B
