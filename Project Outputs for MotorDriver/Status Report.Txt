@@ -1,10 +1,13 @@
-Output: Test Point Report
-Type  : Test Points
+Output: NC Drill Files
+Type  : NC Drill
 From  : Project [MotorDriver.PrjPcb]
-   Generated File[Fabrication Testpoint Report for MotorDriver.csv]
+   Generated File[MotorDriver-RoundHoles.TXT]
+   Generated File[MotorDriver-SlotHoles.TXT]
+   Generated File[MotorDriver.LDP]
+   Generated File[MotorDriver.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 2:13:01 On 2020/12/27
+Finished Output Generation At 11:06:59 On 2020/12/28
